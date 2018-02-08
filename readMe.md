@@ -1,7 +1,7 @@
 # Code Jam: DataDive
 #### By Karine Mellata, Christos Panaritis, Sadhvi Mehta and Alexander Torabi
 
-##Edit: This earned us 2nd place in the Economics Category!
+## Edit: This earned us 2nd place in the Economics Category!
 
 The idea behind the project was to be able to link BitCoin price changes to news articles. Having scrapped google news and New York Times and other news outlets for headlines (as well as there publication date) related and not related to bitcoin. Using the dataset, it was possible to link the rise or decrease in stocks with the important keywords used in headlines. Using TD-IDF, we used a Neural Network to further predict the rise or decrease in a stock only based on keywords! <br/>
 
